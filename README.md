@@ -1,6 +1,8 @@
-# Hi there, I'm Nima 👋 
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
-### Languages and Tools:
+# Nima Askari
+
+## Skills and Experience
 
 <br />
 
