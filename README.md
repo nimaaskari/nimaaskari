@@ -2,6 +2,12 @@
 
 # Nima Askari
 
+- 📫 How to reach me:
+
+[![githubbadge](https://img.shields.io/github/followers/nimaaskari?style=social)](https://github.com/nimaaskari?tab=followers)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nimaa.dev@gmail.com)](mailto:nimaa.dev@gmail.com)
+
+
 ## Skills and Experience
 
 <br />
