@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+![Design and Development](https://github.com/nimaaskari/nimaaskari/blob/main/profile_banner_1920.jpg)
 
 # Nima Askari
 
