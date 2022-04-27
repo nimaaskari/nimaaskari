@@ -7,6 +7,9 @@
 [![githubbadge](https://img.shields.io/github/followers/nimaaskari?style=social)](https://github.com/nimaaskari?tab=followers)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nimaa.dev@gmail.com)](mailto:nimaa.dev@gmail.com)
 
+<br />
+<br />
+
 ## Skills and Experience
 
 
@@ -22,6 +25,9 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
+
+<br />
+<br />
 
 ## Currently learning
 
