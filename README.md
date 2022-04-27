@@ -44,8 +44,9 @@
 <br />
 <br />
 
-<a href="https://github.com/nimaaskari/nimaaskari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimaaskari&show_icons=true&theme=dark&hide_border=true" alt="nimaaskari" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimaaskari&layout=compact&hide=html&theme=dark&hide_border=true" alt="nimaaskari" />
-</a>
+<div style="float: left">
+    <img src="https://github-readme-stats.vercel.app/api?username=afunTW&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="github-stats-card" />
+</div>
 
 <br />
 
