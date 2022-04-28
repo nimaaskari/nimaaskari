@@ -1,8 +1,8 @@
 ![Design and Development](https://github.com/nimaaskari/nimaaskari/blob/main/profile_banner_final_1500.jpg)
 
-# Nima Askari
+<h1 align="center">Nima Askari</h1 >
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <div align="center">
   <a href="mailto:nimaa.dev@gmail.com" target="_blank">
@@ -18,12 +18,8 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
 
-## Skills and Experience
-
+<h2 align="center">Skills and Experience</h2 >
 
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -42,8 +38,7 @@
 <br />
 <br />
 
-## Currently learning
-
+<h2 align="center">Currently learning</h2 >
 
 <p align="center"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -53,15 +48,11 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
    </p>
 
-
- 
-
+<br />
+<br />
 <br />
 <br />
 
 <div style="float: center" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nimaaskari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="github-stats-card" />
 </div>
-
-<br />
-
