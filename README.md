@@ -2,8 +2,6 @@
 
 <h1 align="center">Nima Askari</h1 >
 
-<h3 align="center">Connect with me:</h3>
-
 <div align="center">
   <a href="mailto:nimaa.dev@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge//-Gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
