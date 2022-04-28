@@ -4,8 +4,16 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![githubbadge](https://img.shields.io/github/followers/nimaaskari?style=social)](https://github.com/nimaaskari?tab=followers)
+<!-- [![githubbadge](https://img.shields.io/github/followers/nimaaskari?style=social)](https://github.com/nimaaskari?tab=followers) -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nimaa.dev@gmail.com)](mailto:nimaa.dev@gmail.com)
+<div align="center">
+<a href="https://github.com/nimaaskari" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/nimaskari" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 <br />
 <br />
