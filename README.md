@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/nimaaskari/nimaaskari/blob/main/profile_banner_1920.jpg)
+![Design and Development](https://github.com/nimaaskari/nimaaskari/blob/main/profile_banner_final_1500.jpg)
 
 # Nima Askari
 
