@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/nimaaskari/nimaaskari/blob/main/profile_banner_final_1500.jpg)
+
 
 <h1 align="center">Nima Askari</h1 >
 
