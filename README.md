@@ -15,7 +15,7 @@
 </div>  
 
 <br />
-<br />
+<!-- <br />
 
 <h2 align="center">Skills and Experience</h2 >
 
@@ -38,4 +38,4 @@
 </p>
 
 
-<br />
+<br /> -->
